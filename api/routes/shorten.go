@@ -3,7 +3,7 @@ package routes
 import (
 	"time"
 
-	"github.com/gofiber/fiber"
+	"github.com/gofiber/fiber/v2"
 )
 
 type request struct {
